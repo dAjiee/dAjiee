@@ -9,4 +9,4 @@ Technologies I know!
 [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dAjiee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Reach me on alexandervaugn@gmail.com!
+Reach me on avtvillasis@gmail.com!
