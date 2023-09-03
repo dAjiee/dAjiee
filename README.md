@@ -2,7 +2,7 @@
 
 Technologies I know!
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=java,matlab,r,figma,CSS,HTML,js&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,matlab,r,figma,css,html,js&perline=4)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dAjiee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
